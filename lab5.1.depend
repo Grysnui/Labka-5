@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1639430471 source:c:\users\marmo\desktop\grysnui_toxic\domashka\informatika1\codeblock\lab5.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+
+1639724320 source:c:\users\marmo\desktop\grysnui_toxic\domashka\informatika1\codeblock\lab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+
